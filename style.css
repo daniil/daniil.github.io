@@ -1,0 +1,15 @@
+body {
+  background-color: #2F2235;
+}
+
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Abel', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: #60495A;
+  text-shadow: #BFACC8 0px 1px;
+}
